@@ -2,6 +2,12 @@
 
 **BioLoop** is a comprehensive B2B Agricultural Waste Marketplace designed to connect farmers, bio-waste processing companies, and logistics providers. By turning agricultural waste into a valuable resource, BioLoop promotes a sustainable, circular economy while providing additional income streams for farmers.
 
+
+
+**📌 Note**: This is an enhanced fork of [karand07/BioLoop](https://github.com/karand07/BioLoop) with the following improvements:
+- [List your specific changes/features here]
+- Example: "Enhanced payment validation system"
+- Example: "Added automated waste tracking feature"
 ---
 
 ## 🌟 Key Features
